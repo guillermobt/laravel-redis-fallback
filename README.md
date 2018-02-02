@@ -1,6 +1,6 @@
 # Note about this fork
 
-This is forked from xcat/laravel-redis-fallback to fix an issue with Laravel versions 5.0 to 5.3 related to the lost functionality of the command: php artisan cache:clear
+This is forked from xtcat/laravel-redis-fallback to fix an issue with Laravel versions 5.0 to 5.3 related to the lost functionality of the command: php artisan cache:clear
 
 Xtcat will be creating a new branch to solve it.
 
